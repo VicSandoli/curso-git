@@ -1,8 +1,11 @@
 .body {
-    background-color: beige;
+    background-color: rgba(245, 245, 220, 0.623);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
 
+.teste {
+    border-bottom-color: rgba(0, 0, 255, 0.555)
+}
 
 .head {
     font: 100;
