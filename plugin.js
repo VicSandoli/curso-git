@@ -3,3 +3,8 @@ var x = (function(f) {
     foo = f;
     return f+"1234";
 });
+
+var z = (function(t) {
+    return t+t+t;
+});
+
