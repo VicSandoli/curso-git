@@ -9,4 +9,5 @@
     background: -moz-linear-gradient();
     font: 200;
     animation-delay: 0s;
+    all: border: width border-style color;
 }
