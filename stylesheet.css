@@ -5,6 +5,8 @@
 
 
 .head {
-    font: 200;
+    font: 90;
     background: -moz-linear-gradient();
+    font: 200;
+    animation-delay: 0s;
 }
